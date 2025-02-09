@@ -1,0 +1,62 @@
+{
+  "columns": {
+    "articles": {
+      "cell": "Articles",
+      "header": "Articles",
+      "label": "Articles"
+    },
+    "createdAt": {
+      "cell": "Created At",
+      "header": "Created At",
+      "label": "Created At"
+    },
+    "icon": {
+      "cell": "Icon",
+      "header": "Icon",
+      "label": "Icon"
+    },
+    "id": {
+      "cell": "ID",
+      "header": "ID",
+      "label": "ID"
+    },
+    "language": {
+      "cell": "Default Language",
+      "header": "Default Language",
+      "label": "Default Language"
+    },
+    "name": {
+      "cell": "Name",
+      "header": "Name",
+      "label": "Name"
+    },
+    "orderColumn": {
+      "cell": "Order Column",
+      "header": "Order Column",
+      "label": "Order Column"
+    },
+    "projects": {
+      "cell": "Projects",
+      "header": "Projects",
+      "label": "Projects"
+    },
+    "slug": {
+      "cell": "Slug",
+      "header": "Slug",
+      "label": "Slug"
+    },
+    "title": {
+      "cell": "Tag Title",
+      "header": "Tag Title",
+      "label": "Tag Title"
+    },
+    "updatedAt": {
+      "cell": "Updated At",
+      "header": "Updated At",
+      "label": "Updated At"
+    }
+  },
+  "count": "{0} No Tags| 1 Tag | {count} Tags",
+  "name": "Tag",
+  "title": "Tags"
+}

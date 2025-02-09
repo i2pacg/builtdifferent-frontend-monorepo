@@ -1,0 +1,42 @@
+{
+  "columns": {
+    "code": {
+      "cell": "Code",
+      "header": "Code",
+      "label": "Code"
+    },
+    "createdAt": {
+      "cell": "Created At",
+      "header": "Created At",
+      "label": "Created At"
+    },
+    "direction": {
+      "cell": "Direction",
+      "header": "Direction",
+      "label": "Direction"
+    },
+    "id": {
+      "cell": "ID",
+      "header": "ID",
+      "label": "ID"
+    },
+    "locale": {
+      "cell": "Locale",
+      "header": "Locale",
+      "label": "Locale"
+    },
+    "name": {
+      "cell": "Name",
+      "header": "Name",
+      "label": "Name"
+    },
+    "updatedAt": {
+      "cell": "Updated At",
+      "header": "Updated At",
+      "label": "Updated At"
+    }
+  },
+  "count": "{0} No Languages| 1 Language | {count} Languages",
+  "name": "Language",
+  "title": "Languages"
+}

@@ -1,0 +1,42 @@
+{
+  "columns": {
+    "createdAt": {
+      "cell": "Created At",
+      "header": "Created At",
+      "label": "Created At"
+    },
+    "description": {
+      "cell": "Description",
+      "header": "Description",
+      "label": "Description"
+    },
+    "id": {
+      "cell": "ID",
+      "header": "ID",
+      "label": "ID"
+    },
+    "key": {
+      "cell": "Key",
+      "header": "Key",
+      "label": "Key"
+    },
+    "name": {
+      "cell": "Name",
+      "header": "Name",
+      "label": "Name"
+    },
+    "updatedAt": {
+      "cell": "Updated At",
+      "header": "Updated At",
+      "label": "Updated At"
+    },
+    "value": {
+      "cell": "Value",
+      "header": "Value",
+      "label": "Value"
+    }
+  },
+  "count": "{0} No Content| 1 Static Content | {count} Static Contents",
+  "name": "Static Content",
+  "title": "Static Content"
+}

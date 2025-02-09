@@ -1,0 +1,62 @@
+{
+  "columns": {
+    "articles": {
+      "cell": "文章",
+      "header": "文章",
+      "label": "文章"
+    },
+    "createdAt": {
+      "cell": "创造于",
+      "header": "创造于",
+      "label": "创造于"
+    },
+    "icon": {
+      "cell": "图标",
+      "header": "图标",
+      "label": "图标"
+    },
+    "id": {
+      "cell": "ID",
+      "header": "ID",
+      "label": "ID"
+    },
+    "language": {
+      "cell": "默认语言",
+      "header": "默认语言",
+      "label": "默认语言"
+    },
+    "name": {
+      "cell": "姓名",
+      "header": "姓名",
+      "label": "姓名"
+    },
+    "orderColumn": {
+      "cell": "订单栏",
+      "header": "订单栏",
+      "label": "订单栏"
+    },
+    "projects": {
+      "cell": "项目",
+      "header": "项目",
+      "label": "项目"
+    },
+    "slug": {
+      "cell": "蛞蝓",
+      "header": "蛞蝓",
+      "label": "蛞蝓"
+    },
+    "title": {
+      "cell": "标签标题",
+      "header": "标签标题",
+      "label": "标签标题"
+    },
+    "updatedAt": {
+      "cell": "更新于",
+      "header": "更新于",
+      "label": "更新于"
+    }
+  },
+  "count": "{0}没有标签| \n\n1 类别 | \n\n{count} 个标签",
+  "name": "标签",
+  "title": "标签"
+}

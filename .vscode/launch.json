@@ -1,0 +1,48 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Debug Dashboard (Monorepo)",
+      "url": "https://dashboard.builtdifferent.dev",
+      // Point to the dashboard app within monorepo
+      "webRoot": "${workspaceFolder}/apps/dashboard",
+      "sourceMaps": true,
+      // Handle Vite and monorepo source mapping
+      "sourceMapPathOverrides": {
+        "/@fs/*": "${workspaceFolder}/*",
+        "/@vite-client": "${workspaceFolder}/node_modules/vite/dist/client",
+        "/.vite/deps/*": "${workspaceFolder}/node_modules/*",
+        // Handle workspace packages
+        "@i2pacg/*": "${workspaceFolder}/packages/*"
+      },
+      "smartStep": true,
+      // Include all workspace packages for source maps
+      "resolveSourceMapLocations": [
+        "${workspaceFolder}/apps/dashboard/**",
+        "${workspaceFolder}/packages/**",
+        "!**/node_modules/**"
+      ],
+      "skipFiles": [
+        "<node_internals>/**",
+        "${workspaceFolder}/node_modules/**"
+      ],
+      // Include Vue components from workspace packages
+      "vueComponentPaths": [
+        "${workspaceFolder}/apps/dashboard/**/*.vue",
+        "${workspaceFolder}/packages/**/*.vue"
+      ],
+      "userDataDir": false,
+      "runtimeArgs": [
+        "--remote-debugging-port=9222",
+        "--profile-directory=Default",
+        "--disable-background-timer-throttling",
+        "--disable-backgrounding-occluded-windows"
+      ],
+      "timeout": 20000,
+      "preLaunchTask": "dev:dashboard",
+      "postDebugTask": "Terminate All Tasks"
+    }
+  ]
+}

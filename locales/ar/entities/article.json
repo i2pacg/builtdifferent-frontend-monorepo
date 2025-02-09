@@ -1,0 +1,117 @@
+{
+  "title": "المقالات",
+  "name": "مقال",
+  "count": "{0} لا توجد مقالات | 1 مقال | {count} مقالات",
+  "columns": {
+    "id": {
+      "header": "المعرف",
+      "cell": "المعرف",
+      "label": "المعرف"
+    },
+    "language": {
+      "header": "اللغة",
+      "cell": "اللغة الافتراضية",
+      "label": "اللغة الافتراضية"
+    },
+    "slug": {
+      "header": "الرابط",
+      "cell": "الرابط",
+      "label": "الرابط"
+    },
+    "title": {
+      "header": "عنوان المقال",
+      "cell": "عنوان المقال",
+      "label": "عنوان المقال"
+    },
+    "body": {
+      "header": "المحتوى",
+      "cell": "المحتوى",
+      "label": "المحتوى"
+    },
+    "categories": {
+      "header": "التصنيفات",
+      "cell": "التصنيفات",
+      "label": "التصنيفات"
+    },
+    "projects": {
+      "header": "المشاريع",
+      "cell": "المشاريع",
+      "label": "المشاريع"
+    },
+    "parentId": {
+      "header": "معرف الأصل",
+      "cell": "معرف الأصل",
+      "label": "معرف الأصل"
+    },
+    "parent": {
+      "header": "الأصل",
+      "cell": "الأصل",
+      "label": "الأصل"
+    },
+    "icon": {
+      "header": "الأيقونة",
+      "cell": "الأيقونة",
+      "label": "الأيقونة"
+    },
+    "isPublished": {
+      "header": "منشور",
+      "cell": "منشور",
+      "label": "منشور"
+    },
+    "isFeatured": {
+      "header": "مميز",
+      "cell": "مميز",
+      "label": "مميز"
+    },
+    "isEditorsChoice": {
+      "header": "اختيار المحرر",
+      "cell": "اختيار المحرر",
+      "label": "اختيار المحرر"
+    },
+    "isFromContributors": {
+      "header": "من المساهمين",
+      "cell": "من المساهمين",
+      "label": "من المساهمين"
+    },
+    "tags": {
+      "header": "الوسوم",
+      "cell": "الوسوم",
+      "label": "الوسوم"
+    },
+    "locales": {
+      "header": "متوفر في",
+      "cell": "اللغات",
+      "label": "اللغات"
+    },
+    "createdAt": {
+      "header": "تاريخ النشر",
+      "cell": "تاريخ النشر",
+      "label": "تاريخ النشر"
+    },
+    "updatedAt": {
+      "header": "تاريخ التحديث",
+      "cell": "تاريخ التحديث",
+      "label": "تاريخ التحديث"
+    },
+    "name": {
+      "header": "الاسم",
+      "cell": "الاسم",
+      "label": "الاسم"
+    },
+    "description": {
+      "header": "الوصف",
+      "cell": "الوصف",
+      "label": "الوصف"
+    },
+    "page": {
+      "header": "الصفحة",
+      "cell": "الصفحة",
+      "label": "الصفحة"
+    },
+    "orderColumn": {
+      "header": "ترتيب العمود",
+      "cell": "ترتيب العمود",
+      "label": "ترتيب العمود"
+    }
+  }
+}

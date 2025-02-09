@@ -1,0 +1,122 @@
+{
+  "title": "Articles",
+  "name": "Article",
+  "count": "{0} No Articles| 1 Category | {count} Articles",
+  "columns": {
+    "id": {
+      "header": "Id",
+      "cell": "Id",
+      "label": "Id"
+    },
+    "language": {
+      "header": "Language",
+      "cell": "Default Language",
+      "label": "Default Language"
+    },
+    "slug": {
+      "header": "Slug",
+      "cell": "Slug",
+      "label": "Slug"
+    },
+    "title": {
+      "header": "Article Title",
+      "cell": "Article Title",
+      "label": "Article Title"
+    },
+    "subtitle":{
+      "header": "Article Subtitle",
+      "cell": "Article Subtitle",
+      "label": "Article Subtitle"
+    },
+    "body": {
+      "header": "Body",
+      "cell": "Body",
+      "label": "Body"
+    },
+    "categories": {
+      "header": "Categories",
+      "cell": "Categories",
+      "label": "Categories"
+    },
+    "projects": {
+      "header": "Projects",
+      "cell": "Projects",
+      "label": "Projects"
+    },
+    "parentId": {
+      "header": "Parent Id",
+      "cell": "Parent Id",
+      "label": "Parent Id"
+    },
+    "parent": {
+      "header": "Parent",
+      "cell": "Parent",
+      "label": "Parent"
+    },
+    "icon": {
+      "header": "Icon",
+      "cell": "Icon",
+      "label": "Icon"
+    },
+    "isPublished": {
+      "header": "Published",
+      "cell": "Is Published",
+      "label": "Is Published"
+    },
+    "isFeatured": {
+      "header": "Featured",
+      "cell": "Is Featured",
+      "label": "Is Featured"
+    },
+    "isEditorsChoice": {
+      "header": "Editor's Choice",
+      "cell": "Is Editor's Choice",
+      "label": "Is Editor's Choice"
+    },
+    "isFromContributors": {
+      "header": "From Contributor",
+      "cell": "Is From Contributor",
+      "label": "Is From Contributor"
+    },
+    "tags": {
+      "header": "Tags",
+      "cell": "Tags",
+      "label": "Tags"
+    },
+    "locales": {
+      "header": "Available in",
+      "cell": "Locales",
+      "label": "Locales"
+    },
+    "createdAt": {
+      "header": "Published At",
+      "cell": "Published At",
+      "label": "Published At"
+    },
+    "updatedAt": {
+      "header": "Updated At",
+      "cell": "Updated At",
+      "label": "Updated At"
+    },
+    "name": {
+      "header": "Name",
+      "cell": "Name",
+      "label": "Name"
+    },
+    "description": {
+      "header": "Description",
+      "cell": "Description",
+      "label": "Description"
+    },
+    "page": {
+      "header": "Page",
+      "cell": "Page",
+      "label": "Page"
+    },
+    "orderColumn": {
+      "header": "Order Column",
+      "cell": "Order Column",
+      "label": "Order Column"
+    }
+  }
+}

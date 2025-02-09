@@ -1,0 +1,90 @@
+{
+  "actions": {
+    "logout": "登出"
+  },
+  "locale": {
+    "title": "Select Language",
+    "showAll": "Show All",
+    "en": "(English)",
+    "ar": "(العربية)",
+    "zh": "(中文)"
+  },
+  "backToSite": "返回网站",
+  "clickToFindOutMore": "点击了解更多",
+  "columns": {
+    "actions": {
+      "header": "操作"
+    },
+    "createdAt": {
+      "header": "创建时间"
+    },
+    "updatedAt": {
+      "header": "更新时间"
+    }
+  },
+  "contactUs": "联系我们",
+  "crud": {
+    "columns": {
+      "count": "0 列 | 1 列 | {count} 列",
+      "label": "列"
+    },
+    "create": {
+      "confirm": "创建 {entity}",
+      "failure": "{entity} {name} 无法添加",
+      "header": "创建 {entity}",
+      "invalid": "{entity} {name} 无效",
+      "success": "{entity} {name} 已成功添加",
+      "title": "新建 {entity}"
+    },
+    "edit": {
+      "confirm": "更新 {entity}",
+      "failure": "{entity} {name} 无法更新",
+      "header": "编辑 {entity}",
+      "invalid": "{entity} {name} 无效",
+      "success": "{entity} {name} 已成功更新",
+      "title": "编辑 {entity} {name}"
+    },
+    "errors": {
+      "required": "{field} 是必需的",
+      "unique": "{field} 必须是唯一的"
+    },
+    "refresh": {
+      "lastRefresh": "最后刷新"
+    },
+    "reset": "重置",
+    "rules": {
+      "required": "{field} 是必需的"
+    },
+    "search": {
+      "label": "搜索"
+    }
+  },
+  "iterator": {
+    "10": "10",
+    "25": "25",
+    "5": "5",
+    "50": "50",
+    "all": "全部"
+  },
+  "lang": {
+    "ar": "العربية",
+    "en": "英语",
+    "zh": "中文"
+  },
+  "language": "语言",
+  "localeSelector": {
+    "ar": "العربية",
+    "en": "英语",
+    "showAll": "显示全部",
+    "title": "选择语言",
+    "zh": "中文"
+  },
+  "localized": "{text} (中文)",
+  "name": "中文",
+  "quickContact": {
+    "address": "地址",
+    "emails": "电子邮件",
+    "phoneNumbers": "电话号码",
+    "title": "释放空间潜力"
+  }
+}

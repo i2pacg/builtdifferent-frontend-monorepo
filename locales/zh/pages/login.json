@@ -1,0 +1,19 @@
+{
+  "title": "CMS 登录",
+  "button": "登录",
+  "form": {
+    "buttons": {
+      "login": "登录",
+      "cancel": "取消"
+    },
+    "email": {
+      "label": "电子邮件",
+      "required": "电子邮件是必需的",
+      "invalid": "无效的电子邮件"
+    },
+    "password": {
+      "label": "密码",
+      "required": "密码是必需的"
+    }
+  }
+}

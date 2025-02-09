@@ -1,0 +1,90 @@
+{
+  "actions": {
+    "logout": "تسجيل الخروج"
+  },
+  "locale": {
+    "title": "Select Language",
+    "showAll": "Show All",
+    "en": "(English)",
+    "ar": "(العربية)",
+    "zh": "(中文)"
+  },
+  "backToSite": "العودة إلى الموقع",
+  "clickToFindOutMore": "انقر لمعرفة المزيد",
+  "columns": {
+    "actions": {
+      "header": "الإجراءات"
+    },
+    "createdAt": {
+      "header": "تاريخ الإنشاء"
+    },
+    "updatedAt": {
+      "header": "تاريخ التحديث"
+    }
+  },
+  "contactUs": "اتصل بنا",
+  "crud": {
+    "columns": {
+      "count": "لا اعمدة | عمود واحد | عمودان | {count} اعمدة | {count} عمود",
+      "label": "الأعمدة"
+    },
+    "create": {
+      "confirm": "إنشاء {entity}",
+      "failure": "تعذر إضافة {entity} {name}",
+      "header": "إنشاء {entity}",
+      "invalid": "{entity} {name} غير صالح",
+      "success": "{entity} {name} تمت إضافته بنجاح",
+      "title": "جديد {entity}"
+    },
+    "edit": {
+      "confirm": "تحديث {entity}",
+      "failure": "تعذر تحديث {entity} {name}",
+      "header": "تحرير {entity}",
+      "invalid": "{entity} {name} غير صالح",
+      "success": "{entity} {name} تم تحديثه بنجاح",
+      "title": "تحرير {entity} {name}"
+    },
+    "errors": {
+      "required": "{field} مطلوب",
+      "unique": "{field} يجب أن يكون فريدًا"
+    },
+    "refresh": {
+      "lastRefresh": "آخر تحديث"
+    },
+    "reset": "إعادة ضبط",
+    "rules": {
+      "required": "{field} مطلوب"
+    },
+    "search": {
+      "label": "بحث"
+    }
+  },
+  "iterator": {
+    "10": "10",
+    "25": "25",
+    "5": "5",
+    "50": "50",
+    "all": "الكل"
+  },
+  "lang": {
+    "ar": "العربية",
+    "en": "الإنجليزية",
+    "zh": "中文"
+  },
+  "language": "اللغة",
+  "localeSelector": {
+    "ar": "العربية",
+    "en": "الإنجليزية",
+    "showAll": "عرض الكل",
+    "title": "اختر اللغة",
+    "zh": "中文"
+  },
+  "localized": "{text} (العربية)",
+  "name": "العربية",
+  "quickContact": {
+    "address": "العنوان",
+    "emails": "البريد الإلكتروني",
+    "phoneNumbers": "أرقام الهواتف",
+    "title": "إطلاق العنان لإمكانات الفضاء"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "$schema": "https://turbo.build/schema.json",
+  "globalEnv": ["VITE_*", "NODE_ENV"],
+  "globalDependencies": ["**/.env.*local"],
+  "ui": "tui",
+  "tasks": {
+    "type-check": {
+      "inputs": [
+        "src/**/*.ts",
+        "src/**/*.tsx",
+        "src/**/*.vue"
+      ],
+      "outputs": [],
+      "cache": true
+    },
+
+    "dev": {
+      "persistent": true,
+      "cache": false
+    },
+
+    "//@i2pacg/builtdifferent-frontend-dashboard#dev": {
+      "dependsOn": ["type-check"],
+      "env": ["VITE_*"],
+      "persistent": true,
+      "cache": false
+    },
+
+    "build": {
+      "dependsOn": ["type-check"],
+      "outputs": [
+        "dist/**",
+        "build/**",
+        "build-dashboard/**"
+      ],
+      "env": ["VITE_*", "NODE_ENV"],
+      "cache": true
+    },
+
+    "lint": {
+      "outputs": [],
+      "cache": true
+    },
+
+    "test": {
+      "dependsOn": ["type-check"],
+      "inputs": [
+        "src/**/*.{ts,tsx,vue}",
+        "test/**/*.{ts,tsx}"
+      ],
+      "outputs": ["coverage/**"],
+      "cache": true
+    },
+
+    "clean": {
+      "outputs": ["dist/**", "build/**", "build-dashboard/**"],
+      "cache": false
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "toolbar": {
+    "bold": "عريض",
+    "italic": "مائل",
+    "underline": "تحته خط",
+    "alignLeft": "محاذاة لليسار",
+    "alignCenter": "محاذاة للوسط",
+    "alignRight": "محاذاة لليمين",
+    "alignJustify": "ضبط",
+    "alignStart": "محاذاة البداية",
+    "alignEnd": "محاذاة النهاية",
+    "fontFamily": "نوع الخط",
+    "lineHeight": "ارتفاع السطر",
+    "letterSpacing": "تباعد الحروف",
+    "fontSize": "حجم الخط",
+    "textColor": "لون النص",
+    "backgroundColor": "لون الخلفية",
+    "bulletList": "قائمة نقطية",
+    "orderedList": "قائمة مرتبة",
+    "blockquote": "اقتباس",
+    "codeBlock": "كتلة الشفرة",
+    "link": "رابط",
+    "image": "صورة",
+    "video": "فيديو",
+    "table": "جدول",
+    "undo": "تراجع",
+    "redo": "إعادة"
+  },
+  "editor": {
+    "title": "محرر",
+    "placeholder": "أدخل نصك هنا",
+    "save": "حفظ",
+    "cancel": "إلغاء"
+  }
+}

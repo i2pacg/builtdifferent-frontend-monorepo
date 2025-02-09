@@ -1,0 +1,7 @@
+export type { FontStyleOptions } from './font-style'
+export { FontStyle } from './font-style'
+export type { ImageOptions } from './image'
+export { Image } from './image'
+export { IndentExtension as indent } from './indent'
+export { MediaControls } from './media'
+export { TextStyle as TextStyleExtension } from './text-style'

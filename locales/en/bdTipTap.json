@@ -1,0 +1,35 @@
+{
+  "toolbar": {
+    "bold": "Bold",
+    "italic": "Italic",
+    "underline": "Underline",
+    "alignLeft": "Align left",
+    "alignCenter": "Align center",
+    "alignRight": "Align right",
+    "alignJustify": "Align justify",
+    "alignStart": "Align start",
+    "alignEnd": "Align end",
+    "fontFamily": "Font Family",
+    "lineHeight": "Line Height",
+    "letterSpacing": "Letter Spacing",
+    "fontSize": "Font Size",
+    "textColor": "Text Color",
+    "backgroundColor": "Background Color",
+    "bulletList": "Bullet List",
+    "orderedList": "Ordered List",
+    "blockquote": "Blockquote",
+    "codeBlock": "Code Block",
+    "link": "Link",
+    "image": "Image",
+    "video": "Video",
+    "table": "Table",
+    "undo": "Undo",
+    "redo": "Redo"
+  },
+  "editor": {
+    "title": "Editor",
+    "placeholder": "Enter your text here",
+    "save": "Save",
+    "cancel": "Cancel"
+  }
+}

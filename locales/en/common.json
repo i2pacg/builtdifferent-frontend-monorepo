@@ -1,0 +1,108 @@
+{
+  "language": "Language",
+  "name": "English",
+  "lang": {
+    "en": "English",
+    "ar": "العربية",
+    "zh": "中文"
+  },
+  "localized": "{text} (English)",
+  "locale": {
+    "title": "Select Language",
+    "showAll": "Show All",
+    "en": "(English)",
+    "ar": "(العربية)",
+    "zh": "(中文)"
+  },
+  "actions": {
+    "logout": "Logout"
+  },
+  "crud": {
+    "new": "New Record",
+    "newQuick": "Press Enter, comma, or click to create new {entity}: {name}",
+    "columns": {
+      "label": "Columns",
+      "count": "0 column | 1 column | {count} columns"
+    },
+    "fields": {
+      "label": "Fields",
+      "count": "0 field | 1 field | {count} fields",
+      "slug": {
+        "hint": "The slug for {entity} will be auto-generated if left empty. It is used for creating URL-friendly addresses. Use only letters, numbers, and hyphens."
+      }
+    },
+    "search": {
+      "label": "Search"
+    },
+    "refresh": {
+      "lastRefresh": "Last Refresh"
+    },
+    "errors": {
+      "required": "{field} is required",
+      "unique": "{field} must be unique"
+    },
+    "rules": {
+      "required": "{field} is required"
+    },
+    "create": {
+      "header": "Create {entity}",
+      "title": "New {entity}",
+      "confirm": "Create {entity}",
+      "success": "{entity} {name} has been added successfully",
+      "failure": "{entity} {name} could not be added",
+      "invalid": "{entity} {name} is invalid"
+    },
+    "edit": {
+      "header": "Edit {entity}",
+      "title": "Edit {entity} {name}",
+      "confirm": "Update {entity}",
+      "success": "{entity} {name} has been updated successfully",
+      "failure": "{entity} {name} could not be updated",
+      "invalid": "{entity} {name} is invalid"
+    },
+    "reset": "Reset",
+    "more": "{count} more {entity} | 1 more {entity} | {count} more {entity}"
+  },
+  "listing": {
+    "search": "Type to look for {entity}...",
+    "selectAll": "Select All",
+    "group": {
+      "groupBy": "Group By",
+      "none": "No Grouping"
+    },
+    "display": {
+      "label": "Display Mode",
+      "search": "Search",
+      "checkbox": "Checkbox",
+      "switch": "Switch",
+      "radio": "Radio"
+    }
+  },
+  "columns": {
+    "actions": {
+      "header": "Actions"
+    },
+    "createdAt": {
+      "header": "Created At"
+    },
+    "updatedAt": {
+      "header": "Updated At"
+    }
+  },
+  "quickContact": {
+    "title": "Unleash Space Potential",
+    "address": "Address",
+    "phoneNumbers": "Phone Numbers",
+    "emails": "Emails"
+  },
+  "contactUs": "Contact Us",
+  "clickToFindOutMore": "Click to find out more",
+  "backToSite": "Back to Site",
+  "iterator": {
+    "5": "5",
+    "10": "10",
+    "25": "25",
+    "50": "50",
+    "all": "All"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "title": "文章",
+  "name": "文章",
+  "count": "{0} 没有文章 | 1 篇文章 | {count} 篇文章",
+  "columns": {
+    "id": {
+      "header": "编号",
+      "cell": "编号",
+      "label": "编号"
+    },
+    "language": {
+      "header": "语言",
+      "cell": "默认语言",
+      "label": "默认语言"
+    },
+    "slug": {
+      "header": "链接",
+      "cell": "链接",
+      "label": "链接"
+    },
+    "title": {
+      "header": "文章标题",
+      "cell": "文章标题",
+      "label": "文章标题"
+    },
+    "body": {
+      "header": "内容",
+      "cell": "内容",
+      "label": "内容"
+    },
+    "categories": {
+      "header": "分类",
+      "cell": "分类",
+      "label": "分类"
+    },
+    "projects": {
+      "header": "项目",
+      "cell": "项目",
+      "label": "项目"
+    },
+    "parentId": {
+      "header": "父级编号",
+      "cell": "父级编号",
+      "label": "父级编号"
+    },
+    "parent": {
+      "header": "父级",
+      "cell": "父级",
+      "label": "父级"
+    },
+    "icon": {
+      "header": "图标",
+      "cell": "图标",
+      "label": "图标"
+    },
+    "isPublished": {
+      "header": "已发布",
+      "cell": "已发布",
+      "label": "已发布"
+    },
+    "isFeatured": {
+      "header": "精选",
+      "cell": "精选",
+      "label": "精选"
+    },
+    "isEditorsChoice": {
+      "header": "编辑推荐",
+      "cell": "编辑推荐",
+      "label": "编辑推荐"
+    },
+    "isFromContributors": {
+      "header": "投稿",
+      "cell": "投稿",
+      "label": "投稿"
+    },
+    "tags": {
+      "header": "标签",
+      "cell": "标签",
+      "label": "标签"
+    },
+    "locales": {
+      "header": "可用语言",
+      "cell": "语言",
+      "label": "语言"
+    },
+    "createdAt": {
+      "header": "发布时间",
+      "cell": "发布时间",
+      "label": "发布时间"
+    },
+    "updatedAt": {
+      "header": "更新时间",
+      "cell": "更新时间",
+      "label": "更新时间"
+    },
+    "name": {
+      "header": "名称",
+      "cell": "名称",
+      "label": "名称"
+    },
+    "description": {
+      "header": "描述",
+      "cell": "描述",
+      "label": "描述"
+    },
+    "page": {
+      "header": "页面",
+      "cell": "页面",
+      "label": "页面"
+    },
+    "orderColumn": {
+      "header": "排序",
+      "cell": "排序",
+      "label": "排序"
+    }
+  }
+}

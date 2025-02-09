@@ -1,0 +1,97 @@
+{
+  "title": "Categorizables",
+  "name": "Categorizable",
+  "count": "{0} No Categorizables| 1 Categorizable | {count} Categorizables",
+  "columns": {
+    "id": {
+      "header": "Id",
+      "cell": "Id",
+      "label": "Id"
+    },
+    "Categorizable": {
+      "header": "Default Categorizable",
+      "cell": "Default Categorizable",
+      "label": "Default Categorizable"
+    },
+    "slug": {
+      "header": "Slug",
+      "cell": "Slug",
+      "label": "Slug"
+    },
+    "articles": {
+      "header": "Articles",
+      "cell": "Articles",
+      "label": "Articles"
+    },
+    "projects": {
+      "header": "Projects",
+      "cell": "Projects",
+      "label": "Projects"
+    },
+    "Categorizables": {
+      "header": "Available in",
+      "cell": "Available in",
+      "label": "Available in"
+    },
+    "subCategorizables": {
+      "header": "Sub Categorizables",
+      "cell": "Sub Categorizables",
+      "label": "Sub Categorizables"
+    },
+    "parentId": {
+      "header": "Parent Id",
+      "cell": "Parent Id",
+      "label": "Parent Id"
+    },
+    "parent": {
+      "header": "Parent",
+      "cell": "Parent",
+      "label": "Parent"
+    },
+    "icon": {
+      "header": "Icon",
+      "cell": "Icon",
+      "label": "Icon"
+    },
+    "createdAt": {
+      "header": "Created At",
+      "cell": "Created At",
+      "label": "Created At"
+    },
+    "updatedAt": {
+      "header": "Updated At",
+      "cell": "Updated At",
+      "label": "Updated At"
+    },
+    "name": {
+      "header": "Name",
+      "cell": "Name",
+      "label": "Name"
+    },
+    "description": {
+      "header": "Description",
+      "cell": "Description",
+      "label": "Description"
+    },
+    "page": {
+      "header": "Page",
+      "cell": "Page",
+      "label": "Page"
+    },
+    "orderColumn": {
+      "header": "Order Column",
+      "cell": "Order Column",
+      "label": "Order Column"
+    },
+    "locales": {
+      "header": "Available Locales",
+      "cell": "Available Locales",
+      "label": "Available Locales"
+    },
+    "defaultLocale": {
+      "header": "Default Categorizable",
+      "cell": "Default Categorizable",
+      "label": "Default Categorizable"
+    }
+  }
+}

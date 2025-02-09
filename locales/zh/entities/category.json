@@ -1,0 +1,92 @@
+{
+  "columns": {
+    "articles": {
+      "cell": "文章",
+      "header": "文章",
+      "label": "文章"
+    },
+    "createdAt": {
+      "cell": "创建于",
+      "header": "创建于",
+      "label": "创建于"
+    },
+    "defaultLocale": {
+      "cell": "默认语言",
+      "header": "默认语言",
+      "label": "默认语言"
+    },
+    "description": {
+      "cell": "描述",
+      "header": "描述",
+      "label": "描述"
+    },
+    "icon": {
+      "cell": "图标",
+      "header": "图标",
+      "label": "图标"
+    },
+    "id": {
+      "cell": "编号",
+      "header": "编号",
+      "label": "编号"
+    },
+    "language": {
+      "cell": "默认语言",
+      "header": "默认语言",
+      "label": "默认语言"
+    },
+    "locales": {
+      "cell": "可用区域设置",
+      "header": "可用区域设置",
+      "label": "可用区域设置"
+    },
+    "name": {
+      "cell": "名称",
+      "header": "名称",
+      "label": "名称"
+    },
+    "orderColumn": {
+      "cell": "订单栏",
+      "header": "订单栏",
+      "label": "订单栏"
+    },
+    "page": {
+      "cell": "页面",
+      "header": "页面",
+      "label": "页面"
+    },
+    "parent": {
+      "cell": "父类别",
+      "header": "父类别",
+      "label": "家长"
+    },
+    "parentId": {
+      "cell": "父ID",
+      "header": "父ID",
+      "label": "家长 ID"
+    },
+    "projects": {
+      "cell": "项目",
+      "header": "项目",
+      "label": "项目"
+    },
+    "slug": {
+      "cell": "链接",
+      "header": "链接",
+      "label": "链接"
+    },
+    "subCategories": {
+      "cell": "子分类",
+      "header": "子分类",
+      "label": "子分类"
+    },
+    "updatedAt": {
+      "cell": "更新于",
+      "header": "更新于",
+      "label": "更新于"
+    }
+  },
+  "count": "{0} 没有分类 | 1 个分类 | {count} 个分类",
+  "name": "分类",
+  "title": "分类"
+}

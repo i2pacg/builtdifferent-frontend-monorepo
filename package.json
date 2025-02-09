@@ -1,0 +1,53 @@
+{
+  "name": "@i2pacg/builtdifferent-frontend-monorepo",
+  "private": true,
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev  --parallel",
+    "dev:web": "turbo run dev --filter=web",
+    "dev:dashboard": "turbo dev --filter=@i2pacg/builtdifferent-frontend-dashboard...",
+    "type-check": "turbo type-check",
+    "lint": "turbo run lint",
+    "clean": "turbo run clean",
+    "test": "turbo run test"
+  },
+  "dependencies": {
+    "pinia-orm": "file:D:/Sources/pinia-orm/packages/pinia-orm"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^4.1.1",
+    "@i2pacg/builtdifferent-frontend-bdhelpers": "workspace:*",
+    "@i2pacg/builtdifferent-frontend-tsconfig": "workspace:*",
+    "@i2pacg/builtdifferent-frontend-tsdata": "workspace:*",
+    "@iconify/json": "^2.2.303",
+    "@pinia-orm/axios": "^1.10.1",
+    "@tsconfig/node22": "^22.0.0",
+    "@types/node": "^22.13.1",
+    "@vitejs/plugin-vue": "^5.2.1",
+    "@vueuse/components": "^12.5.0",
+    "@vueuse/core": "^12.5.0",
+    "@vueuse/integrations": "^12.5.0",
+    "@vueuse/router": "^12.5.0",
+    "axios": "^1.7.9",
+    "change-case": "^5.4.4",
+    "jiti": "^2.4.2",
+    "laravel-vite-plugin": "^1.2.0",
+    "pinia": "^2.3.1",
+    "turbo": "^2.4.0",
+    "typescript": "^5.7.3",
+    "unplugin-auto-import": "^19.0.0",
+    "unplugin-icons": "^22.0.0",
+    "unplugin-vue-components": "^28.0.0",
+    "unplugin-vue-router": "^0.11.2",
+    "vite": "^6.0.11",
+    "vite-plugin-vue-layouts": "^0.11.0",
+    "vite-plugin-vuetify": "^2.1.0",
+    "vite-tsconfig-paths": "^5.1.4",
+    "vue": "^3.5.13",
+    "vue-final-modal": "^4.5.5",
+    "vue-i18n": "^11.1.0",
+    "vue-router": "^4.5.0",
+    "vue-toastification": "2.0.0-rc.5",
+    "vuetify": "^3.7.11"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "columns": {
+    "createdAt": {
+      "cell": "创造于",
+      "header": "创造于",
+      "label": "创造于"
+    },
+    "description": {
+      "cell": "描述",
+      "header": "描述",
+      "label": "描述"
+    },
+    "id": {
+      "cell": "ID",
+      "header": "ID",
+      "label": "ID"
+    },
+    "key": {
+      "cell": "开口",
+      "header": "开口",
+      "label": "开口"
+    },
+    "name": {
+      "cell": "姓名",
+      "header": "姓名",
+      "label": "姓名"
+    },
+    "updatedAt": {
+      "cell": "更新于",
+      "header": "更新于",
+      "label": "更新于"
+    },
+    "value": {
+      "cell": "价值",
+      "header": "价值",
+      "label": "价值"
+    }
+  },
+  "count": "{0}无内容| \n\n1 静态内容 | \n\n{count} 静态内容",
+  "name": "静态内容",
+  "title": "静态内容"
+}

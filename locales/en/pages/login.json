@@ -1,0 +1,19 @@
+{
+  "title": "CMS Sign In",
+  "button": "Login",
+  "form": {
+    "buttons": {
+      "login": "Login",
+      "cancel": "Cancel"
+    },
+    "email": {
+      "label": "Email",
+      "required": "Email is required",
+      "invalid": "Invalid email"
+    },
+    "password": {
+      "label": "Password",
+      "required": "Password is required"
+    }
+  }
+}

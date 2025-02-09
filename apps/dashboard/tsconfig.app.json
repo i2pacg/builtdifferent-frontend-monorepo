@@ -1,0 +1,32 @@
+{
+  "extends": "@i2pacg/builtdifferent-frontend-tsconfig",
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "baseUrl": ".",
+    "moduleResolution": "bundler",
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ]
+    },
+    "resolveJsonModule": true,
+    "types": [
+      "vite/client",
+      "unplugin-icons/types/vue",
+      "vite-plugin-vue-layouts/client",
+      "vuetify"
+    ],
+    "strict": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": [
+    "./src/typed-router.d.ts",
+    "src"
+  ],
+  "exclude": [
+    "src/**/__tests__/*",
+    "node_modules"
+  ]
+}

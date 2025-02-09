@@ -1,0 +1,97 @@
+{
+  "title": "Localizables",
+  "name": "Localizable",
+  "count": "{0} No Localizables| 1 Localizable | {count} Localizables",
+  "columns": {
+    "id": {
+      "header": "Id",
+      "cell": "Id",
+      "label": "Id"
+    },
+    "Localizable": {
+      "header": "Default Localizable",
+      "cell": "Default Localizable",
+      "label": "Default Localizable"
+    },
+    "slug": {
+      "header": "Slug",
+      "cell": "Slug",
+      "label": "Slug"
+    },
+    "articles": {
+      "header": "Articles",
+      "cell": "Articles",
+      "label": "Articles"
+    },
+    "projects": {
+      "header": "Projects",
+      "cell": "Projects",
+      "label": "Projects"
+    },
+    "Localizables": {
+      "header": "Available in",
+      "cell": "Available in",
+      "label": "Available in"
+    },
+    "subLocalizables": {
+      "header": "Sub Localizables",
+      "cell": "Sub Localizables",
+      "label": "Sub Localizables"
+    },
+    "parentId": {
+      "header": "Parent Id",
+      "cell": "Parent Id",
+      "label": "Parent Id"
+    },
+    "parent": {
+      "header": "Parent",
+      "cell": "Parent",
+      "label": "Parent"
+    },
+    "icon": {
+      "header": "Icon",
+      "cell": "Icon",
+      "label": "Icon"
+    },
+    "createdAt": {
+      "header": "Created At",
+      "cell": "Created At",
+      "label": "Created At"
+    },
+    "updatedAt": {
+      "header": "Updated At",
+      "cell": "Updated At",
+      "label": "Updated At"
+    },
+    "name": {
+      "header": "Name",
+      "cell": "Name",
+      "label": "Name"
+    },
+    "description": {
+      "header": "Description",
+      "cell": "Description",
+      "label": "Description"
+    },
+    "page": {
+      "header": "Page",
+      "cell": "Page",
+      "label": "Page"
+    },
+    "orderColumn": {
+      "header": "Order Column",
+      "cell": "Order Column",
+      "label": "Order Column"
+    },
+    "locales": {
+      "header": "Available Locales",
+      "cell": "Available Locales",
+      "label": "Available Locales"
+    },
+    "defaultLocale": {
+      "header": "Default Localizable",
+      "cell": "Default Localizable",
+      "label": "Default Localizable"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "toolbar": {
+    "bold": "加粗",
+    "italic": "斜体",
+    "underline": "下划线",
+    "alignLeft": "左对齐",
+    "alignCenter": "居中对齐",
+    "alignRight": "右对齐",
+    "alignJustify": "两端对齐",
+    "alignStart": "开始对齐",
+    "alignEnd": "结束对齐",
+    "fontFamily": "字体",
+    "lineHeight": "行高",
+    "letterSpacing": "字间距",
+    "fontSize": "字体大小",
+    "textColor": "文字颜色",
+    "backgroundColor": "背景颜色",
+    "bulletList": "项目符号列表",
+    "orderedList": "有序列表",
+    "blockquote": "引用",
+    "codeBlock": "代码块",
+    "link": "链接",
+    "image": "图片",
+    "video": "视频",
+    "table": "表格",
+    "undo": "撤销",
+    "redo": "重做"
+  },
+  "editor": {
+    "title": "编辑器",
+    "placeholder": "在此输入文本",
+    "save": "保存",
+    "cancel": "取消"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    "module": "CommonJS", // Output directory for compiled files
+    "types": ["node"], // For Node.js compatibility
+    "outDir": "dist" // Node.js type definitions
+  },
+  "include": ["*.ts", "src/**/*.ts"],
+  "exclude": ["node_modules", "dist"]
+}

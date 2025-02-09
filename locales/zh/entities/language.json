@@ -1,0 +1,42 @@
+{
+  "columns": {
+    "code": {
+      "cell": "代码",
+      "header": "代码",
+      "label": "代码"
+    },
+    "createdAt": {
+      "cell": "创造于",
+      "header": "创造于",
+      "label": "创造于"
+    },
+    "direction": {
+      "cell": "方向",
+      "header": "方向",
+      "label": "方向"
+    },
+    "id": {
+      "cell": "ID",
+      "header": "ID",
+      "label": "ID"
+    },
+    "locale": {
+      "cell": "语言环境",
+      "header": "语言环境",
+      "label": "语言环境"
+    },
+    "name": {
+      "cell": "姓名",
+      "header": "姓名",
+      "label": "姓名"
+    },
+    "updatedAt": {
+      "cell": "更新于",
+      "header": "更新于",
+      "label": "更新于"
+    }
+  },
+  "count": "{0}无语言| \n\n1 类别 | \n\n{count}种语言",
+  "name": "语言",
+  "title": "语言"
+}

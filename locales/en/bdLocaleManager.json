@@ -1,0 +1,10 @@
+{
+  "status": {
+    "header": {
+      "success": "Fully Available",
+      "warning": "Partially Available {fields} missing",
+      "error": "Not Available",
+      "inactive": "Inactive"
+    }
+  }
+}
